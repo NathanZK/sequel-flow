@@ -16,5 +16,12 @@ Revision is available when useful and can address the work at the scope its
 needs require. Capabilities do not imply separate agents, sessions, stages, or
 planning artifacts.
 
+Long-form requests can use more development when the story needs substantive
+ideas and causal structure—for example, turning a source into a novella.
+Meaningful alternatives may be offered for the writer to choose from, followed
+by provisional story architecture, drafting with room for discovery, and
+whole-story review. Requested length is checked against narrative material;
+the workflow does not pad a story to meet a number.
+
 This repository is at the **design/prototype stage**: it contains conceptual
 documents, not agents, automation, schemas, or an application.
