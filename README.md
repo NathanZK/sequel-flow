@@ -1,33 +1,20 @@
 # Sequel Flow
 
-Sequel Flow is a lightweight, project-agnostic workflow for developing stories
-with AI from an existing source or a creative brief. It addresses a common
-problem: asking for a longer story without first generating and shaping enough
-new narrative material to sustain one.
+Sequel Flow is a lightweight, project-agnostic way to develop stories with AI.
+It adapts the amount of process to the creative request: a straightforward
+story can be written directly and reviewed at a suitable scope, while more
+development is used only when it helps.
 
-The workflow separates distinct kinds of work:
+The Copilot guidance favors reasonable autonomous invention and meaningful
+human choices. Relevant source context can inform a story; source relationships
+are optional aids to interpretation, not modes users must select. See
+[Story relationships](docs/story-modes.md) and
+[Copilot workflow instructions](.github/copilot-instructions.md).
 
-**Source / Brief → Ideation → Creative Review → Human Selection → Story
-Architecture → Human Approval → Drafting → Review → Targeted Revision → Final
-Story**
+Review considers the story itself as well as relevant source continuity.
+Revision is available when useful and can address the work at the scope its
+needs require. Capabilities do not imply separate agents, sessions, stages, or
+planning artifacts.
 
-Ideation proposes possibilities; Creative Review evaluates them; Story
-Architecture connects selected possibilities into a coherent story; drafting
-turns that architecture into prose; and review guides focused revisions.
-Humans make the meaningful creative choices without having to approve every
-minor invention or prose change.
-
-Sequel Flow supports five modes: `EXPANSION`, `SEQUEL`, `PREQUEL`,
-`COMPANION`, and `INSPIRED`. They differ in what the source establishes and
-what fidelity means. See [Story modes](docs/story-modes.md).
-
-The workflow distinguishes **source canon**, **approved adaptation**,
-**novel-only invention**, and **unresolved ambiguity**. It makes room for new
-scenes, characters, conflicts, relationships, subplots, settings, motifs, and
-narrative turns where the chosen mode permits them; invention is a creative
-resource, not something to minimize.
-
-The project favors clear handoffs and useful human decisions over elaborate
-governance. Git history provides ordinary development provenance. This
-repository is at the **design/prototype stage**: it contains conceptual
+This repository is at the **design/prototype stage**: it contains conceptual
 documents, not agents, automation, schemas, or an application.
