@@ -25,3 +25,20 @@ the workflow does not pad a story to meet a number.
 
 This repository is at the **design/prototype stage**: it contains conceptual
 documents, not agents, automation, schemas, or an application.
+
+## Making a request
+
+Describe what you want; Sequel Flow decides how much ideation, architecture,
+writing, review, and revision the request needs. You do not need to name
+workflow steps. A single request can carry the work to a finished story when
+it conveys, where relevant, your intent, any source to work from, the scale or
+form, what deserves particular depth, what to preserve or avoid, and the
+outcome you want the story to reach. None of these are required; include what
+matters to you and leave the rest to the workflow.
+
+> Expand my short story "The Lighthouse Keeper's Daughter" into a novelette of
+> roughly 15,000 words. Keep the storm, the shipwreck, and her final decision
+> to leave the island. Spend more time on her relationship with her father and
+> the years she spends keeping the light alone after his death. Don't add a
+> romance, and don't explain what she finds on the mainland; the story should
+> end as she steps off the boat, hopeful but uncertain.
