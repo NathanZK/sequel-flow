@@ -177,6 +177,19 @@ it more character-driven,” “Give me darker possibilities,” or “Challenge
 premise.” The system should use that direction to explore anew, not require
 the user to diagnose the prior set in procedural detail.
 
+When a user engaged in ideation or development introduces a meaningful “what
+if” or changes a motivation, pressure, premise mechanism, or consequence, the
+system should treat it as a possible causal change rather than merely insert
+it as surface content. It should explore meaningful downstream consequences
+before settling a consequential direction, and make important tradeoffs
+legible when useful. Cosmetic wording or surface changes can be incorporated
+directly. The user may modify, reject, combine, or continue with the explored
+direction; when no consequential choice remains, the system should proceed
+autonomously. This does not require a formal causal trace, fixed number of
+alternatives, artifact, or disclosure of private reasoning. A premise alone
+does not trigger this behavior, and straightforward requests remain
+straightforward.
+
 Creative Review is an optional capability for assessing ideas when another
 perspective is useful. It can consider narrative and character potential,
 conflict, consequence, emotional and thematic value, originality within the
